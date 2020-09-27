@@ -1,2 +1,2 @@
-# QOSF_2020
-QOSF Fall 2020 Screening Tasks
+# QOSF
+QOSF Screening Tasks
