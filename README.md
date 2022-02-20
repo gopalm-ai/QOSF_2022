@@ -1,2 +1,2 @@
 # QOSF
-QOSF Winter 2021 Screening Tasks - Problem 4 - QAOA Weighted Maxcut Algorithm
+QOSF 2022 Cohort 5 Screening Tasks - Problem 2 - Quantum Neural Network (for Binary Classification)
